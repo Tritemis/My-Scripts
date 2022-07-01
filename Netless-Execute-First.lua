@@ -9,6 +9,6 @@ for i,v in next, game:GetService("Players").LocalPlayer.Character:GetDescendants
  
     game:GetService("StarterGui"):SetCore("SendNotification", { 
         Title = "Notification";
-        Text = "SUPER IMPORTANT SCRIPT LOADED!";
+        Text = "Netless Ran";
         Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
     Duration = 16;
