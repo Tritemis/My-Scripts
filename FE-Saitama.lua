@@ -1,4 +1,3 @@
-print('Saitama Made by mugaga#2801')
 --Saitama
 --For The Script To Execute You Need:
 --https://web.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
