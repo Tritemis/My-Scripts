@@ -204,3 +204,4 @@ srv.RenderStepped:Wait()
 end
 end)()
 --Created using Nexo Animator V4
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Giant-Cube-Man.lua", "All")
