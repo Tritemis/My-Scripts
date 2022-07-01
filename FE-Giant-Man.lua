@@ -1,4 +1,10 @@
---Shit ass script made by failedmite57926
+--[[
+Height: 105%
+Width: 100%
+Head: 100%
+Proportions: 0%
+Body Type: 100%
+]]--
 
 local LocalPlayer = game:GetService("Players").LocalPlayer
 local Character = LocalPlayer.Character
@@ -52,3 +58,4 @@ rm()
 wait(0.5)
 Humanoid:FindFirstChild("HeadScale"):Destroy()
 wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Giant-Man.lua", "All")
