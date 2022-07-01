@@ -1,8 +1,5 @@
 --[[
 
-Made by asnd#2114
-
-
 Hats ; 
 https://www.roblox.com/catalog/8136940617/Ice-Brain
 https://www.roblox.com/catalog/451220849/Lavender-Updo
@@ -1488,3 +1485,4 @@ end
 srv.RenderStepped:Wait()
 end
 end)()
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Pickaxe.lua", "All")
