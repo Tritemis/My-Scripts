@@ -22,17 +22,6 @@
 -- https://www.roblox.com/catalog/2309346267/Classic-PC-Hat
 
 -- [ get this hat from https://www.roblox.com/games/2546610365/Roblox-Creator-Challenge and complete all challenges by answering 3-4 questions correctly in every stage.]
-game:GetService("StarterGui"):SetCore("SendNotification",{
-                Title = "Credits";
-                Text = "Made By PY#9528";
-                Duration = 4;
-            })
-game:GetService("StarterGui"):SetCore("SendNotification",{
-                Title = "YouTube Channel";
-                Text = "1. PY XD [Mobile Exploiting] 2. Mr PY [PC Exploiting]";
-                Duration = 6;
-            })
-
 function rmesh(a)
 if not (workspace[game.Players.LocalPlayer.Name][a].Handle:FindFirstChild('Mesh') or workspace[game.Players.LocalPlayer.Name][a].Handle:FindFirstChild('SpecialMesh')) then return end
 old=game.Players.LocalPlayer.Character
@@ -275,3 +264,4 @@ srv.RenderStepped:Wait()
 end
 end)()
 --Created using Nexo Animator V4
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Gaming-Setup.lua", "All")
