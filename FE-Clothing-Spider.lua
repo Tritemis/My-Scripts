@@ -19,3 +19,4 @@ wait(0.1)
 wait()
 
 thing.UpperTorso.Anchored=true
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Clothing-Spider.lua", "All")
