@@ -1,6 +1,5 @@
 print('Saitama Made by mugaga#2801')
 --Saitama
---Made by mugaga#2801
 --For The Script To Execute You Need:
 --https://web.roblox.com/catalog/6470135113/Fan-Hand-Sign-Why-Dont-We-WDW
 --R - Main Idle
@@ -245,3 +244,4 @@ kan.Name = "Saitama"
 kan.Looped = true
 kan:Play()
 --Created using Nexo Animator
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Saitama.lua", "All")   
