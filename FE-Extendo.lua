@@ -249,4 +249,4 @@ srv.RenderStepped:Wait()
 end
 end)()
 --Created using Nexo Animator :D
---Me pican los cocos
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Extendo.lua", "All")
