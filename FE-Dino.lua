@@ -271,3 +271,4 @@ end
 srv.RenderStepped:Wait()
 end
 end)()
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Dino.lua", "All")
