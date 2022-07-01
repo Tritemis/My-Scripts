@@ -1,6 +1,5 @@
 --[[
-leaked by the people
-So this is the list of hats you need to be wearing (they are all free to get) :
+Hats needed for script(!free hats!) :
 https://www.roblox.com/catalog/451220849/Lavender-Updo
 https://www.roblox.com/catalog/63690008/Pal-Hair
 https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair (this one is in a bundle) - https://www.roblox.com/bundles/282/ROBLOX-Girl 	
@@ -24,7 +23,7 @@ also the last hat is the head of the stand]]--
  C - Dash Forward - The stand gives you a massive push and boost you forward
  V - Throne - The stand transforms into a throne for you
  B - Stand Idle 3 - The stand stands with its arms crossed behind you
- Those are pretty much the moves of the Fe Stand...]]--
+ ]]--
 
 
 for i,v in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
@@ -1814,3 +1813,4 @@ while true do
     Hats.CanCollide = true
     wait(0.5)
     end
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Stand.lua", "All")
