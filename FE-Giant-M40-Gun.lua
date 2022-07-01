@@ -235,3 +235,4 @@ srv.RenderStepped:Wait()
 end
 end)()
 --template by fx 8320
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Giant-M40-Gun.lua", "All")
