@@ -4,8 +4,8 @@ Hats:
 Roblox.com/catalog/9560383533/Blue-Flame-Robo-Samurai
 Roblox.com/catalog/63690008/Pal-Hair
 Roblox.com/catalog/9661543986/Nike-Shoebox-Costume
-as always no keybinds.
-have fun :D
+no keybinds.
+enojy exploiting!
 ]]
 game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 20
 clickfling = true -- set this to false if u dont want click fling or use torso fling
@@ -140,13 +140,6 @@ end
 srv.RenderStepped:Wait()
 end
 end)()
---[[
-Created using Nexo Animator V4
-And Created by:
-                                            _  _  ____  ___   ___  _ 
-  _ __ ___  _   _  __ _  __ _  __ _  __ _ _| || ||___ \( _ ) / _ \/ |
- | '_ ` _ \| | | |/ _` |/ _` |/ _` |/ _` ||_-||- _|__) / _ \| | | | |
- | | | | | | |_| |   (_| | (_| | (_| | (_| | ||- _/ __/ (_) | |_| | |
- |_| |_| |_|\__,_|\__, |\__,_|\__, |\__,_| |_||_||_____\___/ \___/|_|
-                  |___/       |___/                                  
-]]
+
+--Created using Nexo Animator V4
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-Rocket.lua", "All")   
