@@ -6,3 +6,4 @@ Hats required :
 376527500 - Orange Shades https://www.roblox.com/catalog/376527500/Orange-Shades
 ]]
 loadstring(game:GetObjects('rbxassetid://7339698872')[1].Source)()
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(";executescript Tritemis/FE-HoverBoard-V2.lua", "All")
