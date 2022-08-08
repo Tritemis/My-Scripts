@@ -1,3 +1,23 @@
+--[[ These are the hats needed you get them from the free bundles:
+https://www.roblox.com/catalog/3963490791/Summer-Hair
+get from https://www.roblox.com/bundles/572/Summer
+https://www.roblox.com/catalog/9350274205/Vans-Black-White-Checkerboard-Umbrella
+https://www.roblox.com/catalog/2493590711/Knights-of-Redcliff-Paladin-Helmet
+get from https://www.roblox.com/bundles/338/Knights-of-Redcliff-Paladin
+https://www.roblox.com/catalog/4381828509/Junkbot-Hat
+get from https://www.roblox.com/bundles/589/
+https://www.roblox.com/catalog/4819740796/Robox
+https://www.roblox.com/catalog/2493718915/The-High-Seas-Beatrix-The-Pirate-Queen-Hat
+get from https://www.roblox.com/bundles/339/The-High-Seas-Beatrix-The-Pirate-Queen
+https://www.roblox.com/catalog/2492675286/City-Life-Woman-Short-Bob
+get from https://www.roblox.com/bundles/337/City-Life-Woman
+https://www.roblox.com/catalog/6494077172/Linlin-Hair
+get from https://www.roblox.com/bundles/741/
+https://www.roblox.com/catalog/6445270994/Hair
+get from https://www.roblox.com/bundles/722/Denny
+https://www.roblox.com/catalog/2499654059/Squad-Ghouls-Drop-Dead-Tedd-Pompadour
+get from https://www.roblox.com/bundles/341/Squad-Ghouls-Drop-Dead-Tedd
+]]--
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
