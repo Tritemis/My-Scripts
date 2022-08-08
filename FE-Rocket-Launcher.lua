@@ -1,9 +1,10 @@
+--[[
 https://www.roblox.com/catalog/9867481700/Le-Rouge-Cross-body-Bag-1-0
 https://www.roblox.com/catalog/9661543986/Nike-Shoebox-Costume
 https://www.roblox.com/catalog/6909081094/Head-Slime
 https://www.roblox.com/catalog/3164811019/Spider-Cola
 https://www.roblox.com/catalog/253151806/The-Bird-Says
---script
+]]--
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
