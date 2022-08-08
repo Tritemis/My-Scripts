@@ -5,7 +5,6 @@ Roblox.com/catalog/9560383533/Blue-Flame-Robo-Samurai
 Roblox.com/catalog/63690008/Pal-Hair
 Roblox.com/catalog/9661543986/Nike-Shoebox-Costume
 no keybinds.
-enojy exploiting!
 ]]
 game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 20
 clickfling = true -- set this to false if u dont want click fling or use torso fling
